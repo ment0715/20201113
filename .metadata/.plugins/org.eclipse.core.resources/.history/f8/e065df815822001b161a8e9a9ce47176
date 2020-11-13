@@ -1,0 +1,31 @@
+<%@page import="java.util.ArrayList"%>
+<%@page import="java.util.List"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+3단 출력<br>
+<%
+ 	for(int i = 1; i < 10; i++){
+ 		out.println("3"+"*"+ i + "=" +  3 * i + "<br>");
+ 		if (i % 3 == 0){
+ 			out.println("<br>");
+ 		}
+ 	}
+
+List<String> list = new ArrayList();
+list.add(0, "악<br>");
+list.add(1, "어려워<br>" );
+list.add(2, "나도 잘하고싶어..<Br>");
+list.add(3, "하나님 아버지 제가 개발자가 되게 해주세요 <br>");
+for(int i = 0; i <list.size(); i++) {
+	out.println( list.get(i));
+}
+%>
+</body>
+</html>

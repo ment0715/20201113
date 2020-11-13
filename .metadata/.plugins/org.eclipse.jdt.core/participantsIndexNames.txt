@@ -1,0 +1,27 @@
+INDEX VERSION 1.131
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3293670701.index
+\chap04_1\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2037781993.index
+\20201104_1\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2570500789.index
+\20201106\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1784843059.index
+\chap02\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1248486110.index
+\ohmygod\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2586870218.index
+\20201102\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3791269525.index
+\20201104_1\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3953272260.index
+\20201109\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2879243984.index
+\20201110\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\26594725.index
+\20201103\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\809011903.index
+\20201111\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2600842153.index
+\20201110-1\src
+C:\0_Study\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2237607635.index
+\chap04\src
